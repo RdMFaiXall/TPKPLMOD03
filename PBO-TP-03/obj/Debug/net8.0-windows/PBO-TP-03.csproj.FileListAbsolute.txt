@@ -1,0 +1,16 @@
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\bin\Debug\net8.0-windows\PBO-TP-03.exe
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\bin\Debug\net8.0-windows\PBO-TP-03.deps.json
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\bin\Debug\net8.0-windows\PBO-TP-03.runtimeconfig.json
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\bin\Debug\net8.0-windows\PBO-TP-03.dll
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\bin\Debug\net8.0-windows\PBO-TP-03.pdb
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO_TP_03.Form1.resources
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.csproj.GenerateResource.cache
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.AssemblyInfoInputs.cache
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.AssemblyInfo.cs
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.csproj.CoreCompileInputs.cache
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.dll
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\refint\PBO-TP-03.dll
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.pdb
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\PBO-TP-03.genruntimeconfig.cache
+C:\Programing\C#\PBO-TP-03\PBO-TP-03\obj\Debug\net8.0-windows\ref\PBO-TP-03.dll

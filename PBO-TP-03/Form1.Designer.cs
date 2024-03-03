@@ -55,7 +55,7 @@
             // Outputan
             // 
             Outputan.AutoSize = true;
-            Outputan.BackColor = SystemColors.ScrollBar;
+            Outputan.BackColor = SystemColors.ActiveCaption;
             Outputan.Font = new Font("Segoe UI", 27.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             Outputan.Location = new Point(197, 224);
             Outputan.Name = "Outputan";
